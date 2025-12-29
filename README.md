@@ -1,8 +1,8 @@
-# Hi 👋, I'm M. Ferzian Safaridzaldi
+# Hi 👋, I'm Ferzian
 
 ### A Cloud Computing enthusiast currently studying at Pakuan University. I'm always eager to learn and build new things.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferzian&label=Profile views&color=0e75b6&style=flat" alt="ferzian" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferzian&label=Profile views&color=0e75b6&style=flat" alt="ferzian" /> </p> -->
 
 - 🌱 I'm currently learning **AWS, NextJS, and more.**
 
@@ -22,9 +22,9 @@
 <p align="left">
 <a href="https://github.com/ferzian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ferzian" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ferzian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferzian" height="30" width="40" /></a>
+<a href="https://instagram.com/ferzian9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferzian9" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ferzian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ferzian" height="30" width="40" /></a>
 <a href="https://kaggle.com/ferzian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ferzian" height="30" width="40" /></a>
-<a href="https://instagram.com/ferzian9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferzian9" height="30" width="40" /></a>
 <a href="https://medium.com/@m.ferzian09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m.ferzian09" height="30" width="40" /></a>
 </p>
 
@@ -37,9 +37,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferzian&show_icons=true&locale=en&layout=compact" alt="ferzian" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferzian&show_icons=true&locale=en&layout=compact" alt="ferzian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferzian&show_icons=true&locale=en" alt="ferzian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferzian&" alt="ferzian" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferzian&" alt="ferzian" /></p> -->
 
