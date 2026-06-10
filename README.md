@@ -4,19 +4,17 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferzian&label=Profile views&color=0e75b6&style=flat" alt="ferzian" /> </p> -->
 
-- 🌱 I'm currently learning **AWS, NextJS, and more.**
+- 🌱 I'm currently learning **NextJS, NestJS, AI/ML, and more.**
 
 - 👯 I'm looking to collaborate on **Open source projects or something.**
 
-- 💬 Ask me about **React, Node.js, and web development.**
+- 💬 Ask me about **Web, AI/ML, or any**
 
 - 📫 How to reach me **m.ferzian09@gmail.com**
 
 - ⚡ Fun fact **Strangest.**
 
-- 👨‍💻 All of my projects are available at **[https://portofolio-m0xi0m7a9-ferzians-projects.vercel.app](https://portofolio-m0xi0m7a9-ferzians-projects.vercel.app)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1PibK2-609m7KWHc1oZ3q40W4XFttci5i/view?usp=sharing](https://drive.google.com/file/d/1PibK2-609m7KWHc1oZ3q40W4XFttci5i/view?usp=sharing)**
+- 👨‍💻 See my Portofolio here **[My Portofolio](https://ferzian.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
