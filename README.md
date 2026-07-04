@@ -1,18 +1,16 @@
 # Hi 👋, I'm Ferzian
 
-### A Cloud Computing enthusiast currently studying at Pakuan University. I'm always eager to learn and build new things.
+### A Web and Cloud Computing enthusiast from somewhere. I'm always eager to learn and build new things.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferzian&label=Profile views&color=0e75b6&style=flat" alt="ferzian" /> </p> -->
 
-- 🌱 I'm currently learning **NextJS, NestJS, AI/ML, and more.**
+- 🌱 I'm currently learning ** NestJS, AI/ML, and more.**
 
 - 👯 I'm looking to collaborate on **Open source projects or something.**
 
-- 💬 Ask me about **Web, AI/ML, or any**
+- 💬 Ask me about **Web, CC, AI/ML, or any**
 
 - 📫 How to reach me **m.ferzian09@gmail.com**
-
-- ⚡ Fun fact **Strangest.**
 
 - 👨‍💻 See my Portofolio here **[My Portofolio](https://ferzian.vercel.app/)**
 
